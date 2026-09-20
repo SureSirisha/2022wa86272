@@ -5,6 +5,11 @@
   <artifactId>2022wa86272</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+  <properties>
+      <maven.compiler.source>8</maven.compiler.source>
+      <maven.compiler.target>8</maven.compiler.target>
+</properties>
+
   <name>2022wa86272</name>
   <url>http://maven.apache.org</url>
   <dependencies>
